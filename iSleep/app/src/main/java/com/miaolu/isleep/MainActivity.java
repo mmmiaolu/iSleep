@@ -1,4 +1,4 @@
-package com.example.asus.myapplication;
+package com.miaolu.isleep;
 
 import android.content.Intent;
 import android.support.v7.app.AppCompatActivity;
@@ -6,6 +6,8 @@ import android.os.Bundle;
 import android.support.v7.view.menu.ActionMenuItemView;
 import android.view.View;
 import android.widget.Button;
+
+import com.example.asus.myapplication.R;
 
 public class MainActivity extends AppCompatActivity {
     private Button btnSelected;

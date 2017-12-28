@@ -6,8 +6,7 @@ import android.os.Bundle;
 import android.support.v7.view.menu.ActionMenuItemView;
 import android.view.View;
 import android.widget.Button;
-
-import com.example.asus.myapplication.R;
+import com.miaolu.isleep.R;
 
 
 public class SleepActivity extends AppCompatActivity {

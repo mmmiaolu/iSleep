@@ -3,7 +3,7 @@ package com.miaolu.isleep;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
-import com.example.asus.myapplication.R;
+import com.miaolu.isleep.R;
 
 
 public class Video2Activity extends AppCompatActivity {
